@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class CourseScheduleProblemTest {
     private final CourseScheduleProblem problem = new CourseScheduleProblem();
+    private final CourseScheduleProblem2 problem2 = new CourseScheduleProblem2();
 
     @Test
     void example1() {
@@ -20,8 +21,10 @@ public class CourseScheduleProblemTest {
         };
 
         var can = problem.canFinish(numCourses, prerequisites);
+        var can2 = problem2.canFinish(numCourses, prerequisites);
 
         assertTrue(can);
+        assertTrue(can2);
     }
 
     @Test
@@ -36,8 +39,10 @@ public class CourseScheduleProblemTest {
         };
 
         var can = problem.canFinish(numCourses, prerequisites);
+        var can2 = problem2.canFinish(numCourses, prerequisites);
 
         assertFalse(can);
+        assertFalse(can2);
     }
 
     @Test
@@ -52,7 +57,9 @@ public class CourseScheduleProblemTest {
         };
 
         var can = problem.canFinish(numCourses, prerequisites);
+        var can2 = problem2.canFinish(numCourses, prerequisites);
 
         assertTrue(can);
+        assertTrue(can2);
     }
 }
