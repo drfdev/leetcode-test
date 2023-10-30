@@ -5,7 +5,7 @@ import dev.drf.leetcode.Problem;
 /**
  * https://leetcode.com/problems/min-cost-climbing-stairs/
  * Used solution:
- * https://leetcode.com/problems/min-cost-climbing-stairs/solutions/144682/3-lines-java-solution-o-1-space/?envType=study-plan-v2&envId=leetcode-75
+ * https://leetcode.com/problems/min-cost-climbing-stairs/solutions/144682/3-lines-java-solution-o-1-space/
  */
 public class MinCostClimbingStairsProblem implements Problem {
     public int minCostClimbingStairs(int[] cost) {

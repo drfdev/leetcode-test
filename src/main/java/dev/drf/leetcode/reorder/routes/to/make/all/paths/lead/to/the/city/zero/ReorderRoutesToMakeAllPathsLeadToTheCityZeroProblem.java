@@ -8,7 +8,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
  * Used JulesX01 solution, from:
- * https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/solutions/661672/c-java-track-direction/?envType=study-plan-v2&envId=leetcode-75
+ * https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/solutions/661672/c-java-track-direction/
  */
 @Deprecated /* Time Limit Exceeded */
 public class ReorderRoutesToMakeAllPathsLeadToTheCityZeroProblem implements Problem {

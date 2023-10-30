@@ -3,7 +3,7 @@ package dev.drf.leetcode.find.the.index.of.the.first.occurrence.in.a.string;
 import dev.drf.leetcode.Problem;
 
 /**
- * https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=featured-list&envId=top-interview-questions
+ * https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
  */
 public class FindTheIndexOfTheFirstOccurrenceInAStringProblem implements Problem {
     public int strStr(String haystack, String needle) {
