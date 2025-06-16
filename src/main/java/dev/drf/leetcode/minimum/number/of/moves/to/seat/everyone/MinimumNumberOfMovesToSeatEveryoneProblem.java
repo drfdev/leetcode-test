@@ -5,7 +5,7 @@ import dev.drf.leetcode.Problem;
 import java.util.Arrays;
 
 /**
- * https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
+ * https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
  */
 public class MinimumNumberOfMovesToSeatEveryoneProblem implements Problem {
     public int minMovesToSeat(int[] seats, int[] students) {

@@ -3,7 +3,7 @@ package dev.drf.leetcode.reverse.string;
 import dev.drf.leetcode.Problem;
 
 /**
- * https://leetcode.com/problems/reverse-string/description/
+ * https://leetcode.com/problems/reverse-string/
  */
 public class ReverseStringProblem implements Problem {
     public void reverseString(char[] s) {

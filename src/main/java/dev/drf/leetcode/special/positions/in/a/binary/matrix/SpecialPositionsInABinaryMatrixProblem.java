@@ -3,7 +3,7 @@ package dev.drf.leetcode.special.positions.in.a.binary.matrix;
 import dev.drf.leetcode.Problem;
 
 /**
- * https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/
+ * https://leetcode.com/problems/special-positions-in-a-binary-matrix/
  * Used solution:
  * https://leetcode.com/problems/special-positions-in-a-binary-matrix/solutions/4397449/easy-solution-ever-java-c-python-js-ruby-go-by-prodonik/
  */
