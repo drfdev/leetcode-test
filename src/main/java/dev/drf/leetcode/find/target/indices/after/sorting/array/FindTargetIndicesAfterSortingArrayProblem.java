@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/find-target-indices-after-sorting-array/description
+ * https://leetcode.com/problems/find-target-indices-after-sorting-array/
  */
 public class FindTargetIndicesAfterSortingArrayProblem implements Problem {
     public List<Integer> targetIndices(int[] nums, int target) {

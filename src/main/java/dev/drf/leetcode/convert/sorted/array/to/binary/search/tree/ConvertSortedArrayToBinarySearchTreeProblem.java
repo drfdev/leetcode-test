@@ -3,7 +3,7 @@ package dev.drf.leetcode.convert.sorted.array.to.binary.search.tree;
 import dev.drf.leetcode.Problem;
 
 /**
- * https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description
+ * https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
  */
 public class ConvertSortedArrayToBinarySearchTreeProblem implements Problem {
     public TreeNode sortedArrayToBST(int[] nums) {
